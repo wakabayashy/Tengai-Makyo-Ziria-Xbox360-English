@@ -5,13 +5,13 @@ An English translation project for the Japanese Xbox 360 release of **Tengai Mak
 > **Current status: In development — approximately 50% of the dialogue translated.**
 
 **Main developer: Veiga117**  
-**Team / release: wakabayashy**
+**Project publication / coordination: wakabayashy**
 
 ## About the Project
 
 This project aims to make the Japanese Xbox 360 version of Tengai Makyō: Ziria – Haruka Naru Jipang accessible to English-speaking players.
 
-The project is being developed under the wakabayashy team, with Veiga117 handling the actual translation and technical work.
+The project is published under my name, with Veiga117 handling the actual translation and technical work.
 
 ## Translation and Editing
 
@@ -70,7 +70,7 @@ No claim is being made that the current build is complete or stable.
 
 ## Future Beta Testing
 
-Once the dialogue translation reaches 100%, the team expects to look for players willing to help with Beta testing.
+Once the dialogue translation reaches 100%, the project plans to look for players willing to help with Beta testing.
 
 Potential testing areas include:
 
@@ -88,16 +88,16 @@ Potential testing areas include:
 
 ## Credits and Responsibilities
 
-This project is released under the wakabayashy team, but the actual translation and technical development are being carried out by Veiga117.
+This project is published by wakabayashy, but the actual translation and technical development are carried out by Veiga117.
 
-- **Team / release:** wakabayashy
+- **Project publication:** wakabayashy
 - **Main developer:** Veiga117
 - **English translation:** Veiga117
 - **Text editing and manual review:** Veiga117
 - **Technical research:** Veiga117
 - **Debug variable research and QoL work:** Veiga117
 - **Game integration and patch development:** Veiga117
-- **Team support and coordination:** wakabayashy
+- **Project support and coordination:** wakabayashy
 
 **All credit for the translation, editing and technical work belongs to Veiga117.**
 
@@ -105,7 +105,7 @@ This project is released under the wakabayashy team, but the actual translation 
 
 **Discord:** https://discord.gg/qf33SZmpn
 
-The team Discord will be used for future project updates, Beta recruitment, tester coordination and bug reports.
+My Discord server will be used for future project updates, Beta recruitment, tester coordination and bug reports.
 
 **GitHub profile:** https://github.com/wakabayashy
 
